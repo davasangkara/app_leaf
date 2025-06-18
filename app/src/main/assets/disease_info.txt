@@ -1,0 +1,4 @@
+Apel_scarb|Scab adalah penyakit jamur yang menyebabkan bintik hitam pada daun dan buah. Ini bisa menyebabkan buah rusak dan tidak layak konsumsi.|Gunakan fungisida berbasis captan atau mancozeb. Pangkas area yang terinfeksi dan jaga agar kebun tetap kering dan bersirkulasi udara baik.
+Appel_blackrot|Black rot adalah infeksi jamur yang menyebabkan buah membusuk dengan bercak hitam bulat dan membesar.|Singkirkan buah dan daun terinfeksi. Semprotkan fungisida seperti thiophanate-methyl secara teratur, dan bersihkan area sekitar pohon.
+Appel_cedar|Cedar apple rust adalah penyakit akibat interaksi apel dan pohon juniper, ditandai bercak oranye di daun dan buah.|Hapus tanaman juniper terdekat, gunakan fungisida sulfur selama musim semi, dan pangkas area yang menunjukkan gejala.
+Appel_healthy|Apel dalam kondisi sehat tanpa gejala penyakit.|Tetap jaga kebersihan lingkungan tanam, lakukan pemangkasan rutin dan periksa kondisi secara berkala.

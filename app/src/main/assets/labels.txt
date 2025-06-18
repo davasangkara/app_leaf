@@ -1,0 +1,4 @@
+0 Apel_scarb
+1 Appel_blackrot
+2 Appel_cedar
+3 Appel_healthy
