@@ -2,7 +2,7 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/hunt"
+    android:background="@color/dahan"
     android:padding="16dp">
 
     <!-- Tampilan gambar -->
@@ -23,8 +23,9 @@
         android:layout_below="@id/imageView"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="16dp"
-        android:textColor="@color/white"
-        android:backgroundTint="@color/brown"
+        android:textColor="@color/dahan"
+        android:textStyle="bold"
+        android:backgroundTint="@color/white"
         android:text="Pilih Gambar" />
 
     <!-- Tombol untuk kamera -->
@@ -35,8 +36,9 @@
         android:layout_below="@id/button_select_image"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="16dp"
-        android:textColor="@color/white"
-        android:backgroundTint="@color/brown"
+        android:textColor="@color/dahan"
+        android:textStyle="bold"
+        android:backgroundTint="@color/white"
         android:text="Kamera" />
 
     <!-- Tampilan hasil prediksi -->
@@ -50,7 +52,7 @@
         android:layout_marginTop="16dp"
         android:layout_marginBottom="26dp"
         android:text="Hasil prediksi akan muncul di sini"
-        android:textColor="@color/brown"
+        android:textColor="@color/white"
         android:textSize="18sp"
         android:textStyle="bold" />
 
