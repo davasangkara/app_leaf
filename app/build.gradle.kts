@@ -44,6 +44,7 @@ android {
 }
 
 dependencies {
+    implementation ("androidx.cardview:cardview:1.0.0")
     implementation ("com.google.android.material:material:1.11.0")
     implementation ("org.tensorflow:tensorflow-lite:2.9.0")
     implementation ("org.jetbrains.kotlin:kotlin-stdlib:1.9.0")
